@@ -1,3 +1,4 @@
 Hello Git
-This is version 2 — edited in master branch
+<<<<<<< HEAD
+This is version 2 — edited and merged from both branches
 This is a branch change
