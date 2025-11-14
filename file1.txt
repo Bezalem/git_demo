@@ -2,3 +2,5 @@ Hello Git
 <<<<<<< HEAD
 This is version 2 — edited and merged from both branches
 This is a branch change
+This is version 3 — pushed to GitHub.
+
